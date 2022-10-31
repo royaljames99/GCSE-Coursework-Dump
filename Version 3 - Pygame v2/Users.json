@@ -1,0 +1,61 @@
+{
+     "Logins": [
+          {
+               "Username": "ADMIN",
+               "Pswd": "b'#\\x8b\\x90\\xe6\\xe28-\\xda\\xfa\\xdc5&k/\\xa9\\xa3q\\xfb9b\\xb6u\\xcc\\xab\\x1bU82\\x1fF\\x90p\\xd0\\xf3v/)\\xb2\\x1a\\xc7\\xadw.\\xb6\\xbd)\\x9d\\t\\xf8\\xe7]8\\xed\\x8bpg\\x96]]_&\\xeb\\xc3\\xf5'",
+               "Highscore": 40
+          },
+          {
+               "Username": "Violet Baudelaire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 25
+          },
+          {
+               "Username": "Klaus Baudelaire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 37
+          },
+          {
+               "Username": "Sunny Baudelaire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 17
+          },
+          {
+               "Username": "Isadora Quagmire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 20
+          },
+          {
+               "Username": "Duncan Quagmire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 10
+          },
+          {
+               "Username": "Quigly Quagmire",
+               "Pswd": "b'\\x7f\\xa5\\x02\\xb2g\\x9e\\xb5\\xafhg\\xe9\\xd8\\n\\x12\\xd5\\xdd@\\x1f\\xd5\\xe7\\xddW\\xd4\\xed\\xa4\\xb3Lx\\xa4\\xce!(\\x0b:\\x0c\\x19\\x8aho&\\x06\\xfc\\xc2\\xc8\\xe8\\x8f\\xa0\\xac\\\\\\x98\\x1dz\\xbfC!jv\\x82\\xd8|\\xfe\\xf4\\x02Y'",
+               "Highscore": 18
+          }
+     ],
+     "Highscore": [
+          {
+               "Score": 40,
+               "User": "ADMIN"
+          },
+          {
+               "Score": 37,
+               "User": "Klaus Baudelaire"
+          },
+          {
+               "Score": 25,
+               "User": "Violet Baudelaire"
+          },
+          {
+               "User": "Isadora Quagmire",
+               "Score": 20
+          },
+          {
+               "Score": 18,
+               "User": "Quigly Quagmire"
+          }
+     ]
+}

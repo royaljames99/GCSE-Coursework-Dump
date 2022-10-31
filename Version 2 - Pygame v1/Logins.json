@@ -1,0 +1,61 @@
+{
+     "Logins": [
+          {
+               "Pswd": "protect siblings",
+               "highscore": 20,
+               "Usnm": "Violet Baudelaire"
+          },
+          {
+               "Pswd": "Books4Lyfe",
+               "highscore": 27,
+               "Usnm": "Klaus Baudelaire"
+          },
+          {
+               "Pswd": "I'm not a baby",
+               "highscore": 15,
+               "Usnm": "Sunny Baudelaire"
+          },
+          {
+               "Pswd": "IHateBaudelaires",
+               "highscore": 4,
+               "Usnm": "Count Olaf"
+          },
+          {
+               "Usnm": "Royaljames99",
+               "Pswd": "Hello",
+               "highscore": 90
+          },
+          {
+               "Usnm": "BaRrY",
+               "Pswd": "yRrAb",
+               "highscore": 20
+          },
+          {
+               "Usnm": "naren",
+               "Pswd": "poo",
+               "highscore": 0
+          }
+     ],
+     "Highscore": [
+          {
+               "User": "Royaljames99",
+               "Score": 90
+          },
+          {
+               "Score": 27,
+               "User": "Klaus Baudelaire"
+          },
+          {
+               "Score": 25,
+               "User": "Klaus Baudelaire"
+          },
+          {
+               "Score": 20,
+               "User": "Violet Baudelaire"
+          },
+          {
+               "User": "BaRrY",
+               "Score": 20
+          }
+     ]
+}

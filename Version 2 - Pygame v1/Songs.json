@@ -1,0 +1,124 @@
+{
+    "Songs": [
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen"
+        },
+        {
+            "name": "Mr Blue Sky",
+            "artist": "Electric Light Orchestra"
+        },
+        {
+            "name": "The Chain",
+            "artist": "Fleetwood Mac"
+        },
+        {
+            "name": "Surrender",
+            "artist": "Cheap Trick"
+        },
+        {
+            "name": "Come A Little Bit Closer",
+            "artist": "Jay & The Americans"
+        },
+        {
+            "name": "Father And Son",
+            "artist": "Yusaf/Cat Stevens"
+        },
+        {
+            "name": "Dancing Queen",
+            "artist": "ABBA"
+        },
+        {
+            "name": "Don't Stop Believing",
+            "artist": "Journey"
+        },
+        {
+            "name": "Kung Fu Fighting",
+            "artist": "Carl Douglas"
+        },
+        {
+            "name": "YMCA",
+            "artist": "Village People"
+        },
+        {
+            "name": "All Star",
+            "artist": "Smash Mouth"
+        },
+        {
+            "name": "Radioactive",
+            "artist": "Imagine Dragons"
+        },
+        {
+            "name": "Thank you for the music",
+            "artist": "ABBA"
+        },
+        {
+            "name": "My Way",
+            "artist": "Frank Sinatra"
+        },
+        {
+            "name": "Crocodile Rock",
+            "artist": "Elton John"
+        },
+        {
+            "name": "Waterloo",
+            "artist": "ABBA"
+        },
+        {
+            "name": "Live and let die",
+            "artist": "Paul McCartney"
+        },
+        {
+            "name": "When you play the violin",
+            "artist": "The Gothic Archives"
+        },
+        {
+            "name": "Vive la Vida",
+            "artist": "Coldplay"
+        },
+        {
+            "name": "Five Colours in her hair",
+            "artist": "McFly"
+        },
+        {
+            "name": "Believer",
+            "artist": "Imagine Dragons"
+        },
+        {
+            "name": "Space Oddity",
+            "artist": "David Bowie"
+        },
+        {
+            "name": "Turn to stone",
+            "artist": "Electric Light Orchestra"
+        },
+        {
+            "name": "All you need is love",
+            "artist": "The Beatles"
+        },
+        {
+            "name": "Killer Queen",
+            "artist": "Queen"
+        },
+        {
+            "name": "Thunderstruck",
+            "artist": "AC/DC"
+        },
+        {
+            "name": "Hey Jude",
+            "artist": "The Beatles"
+        },
+        {
+            "name": "Hammer to fall",
+            "artist": "Queen"
+        },
+        {
+            "name": "Skyfall",
+            "artist": "Adele"
+        },
+        {
+            "name": "Hyper",
+            "artist": "Tom Billington"
+        }
+    ]
+}
